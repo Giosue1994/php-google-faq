@@ -28,6 +28,12 @@ ul {
 }
 
 /* HEADER */
+header {
+  position: fixed;
+  background-color: white;
+  width: 100%;
+}
+
 nav {
   padding: 20px;
   height: 100px;
@@ -79,6 +85,9 @@ nav .menu .contact span {
 }
 
 /* MAIN */
+main {
+  padding-top: 100px;
+}
 main h2 {
   padding: 65px 0 25px;
   font-size: 23px;

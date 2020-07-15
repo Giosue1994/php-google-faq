@@ -138,7 +138,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Google FAQ</title>
   </head>
   <body>
@@ -163,7 +163,7 @@
             <img src="img/unnamed.png" alt="Contact">
             <span>giosuelentini1994@gmail.com</span>
           </div>
-          
+
         </div>
 
       </nav>
