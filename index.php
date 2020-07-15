@@ -136,18 +136,127 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>Google FAQ</title>
   </head>
   <body>
-    <main>
+    <!-- HEADER -->
+    <header>
+      <nav>
+        <div class="logo">
+          <img src="img/google.png" alt="Google">
+          <span>Privacy e termini</span>
+        </div>
 
+        <div class="menu">
+          <ul class="list-menu">
+            <li>Introduzione</li>
+            <li>Norme sulla privacy</li>
+            <li>Termini di servizio</li>
+            <li>Tecnologie</li>
+            <li class="active">Domande frequenti</li>
+          </ul>
+
+          <div class="contact">
+            <img src="img/unnamed.png" alt="Contact">
+            <span>giosuelentini1994@gmail.com</span>
+          </div>
+          
+        </div>
+
+      </nav>
+    </header>
+    <!-- MAIN -->
+    <main>
+      <div class="container">
         <?php foreach ($faq as $question_and_answer => $text_list) { ?>
           <h2> <?php echo $text_list['question']; ?> </h2>
           <p> <?php echo $text_list['answer']; ?> </p>
         <?php } ?>
-
+      </div>
     </main>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="container">
+        <div class="info">
+          <ul class="info-list">
+            <li>Google <span>-</span> </li>
+            <li>Tutto su Google <span>-</span> </li>
+            <li>Privacy <span>-</span> </li>
+            <li>Termini</li>
+          </ul>
+        </div>
+
+        <div class="language">
+          <i class="fas fa-comment-alt"></i>
+          <select class="lang">
+            <option>Italiano</option>
+            <option>Afrikaans</option>
+            <option>Bahasa Indonesia</option>
+            <option>Bahasa Melayu</option>
+            <option>Català</option>
+            <option>Čeština</option>
+            <option>Dansk</option>
+            <option>Deutsch</option>
+            <option>Eesti</option>
+            <option>English</option>
+            <option>English (United Kingdom)</option>
+            <option>Español</option>
+            <option>Español (Latinoamérica)</option>
+            <option>Euskara</option>
+            <option>Filipino</option>
+            <option>Français</option>
+            <option>Français (Canada)</option>
+            <option>Galego</option>
+            <option>Hrvatski</option>
+            <option>Isizulu</option>
+            <option>Íslenska</option>
+            <option>Kiswahili</option>
+            <option>Latviešu</option>
+            <option>Lietuvių</option>
+            <option>Magyar</option>
+            <option>Nederlands</option>
+            <option>Norsk</option>
+            <option>Polski</option>
+            <option>Português (Brasil)</option>
+            <option>Português (Portugal)</option>
+            <option>Română</option>
+            <option>Slovenčina</option>
+            <option>Slovenščina</option>
+            <option>Srpski</option>
+            <option>Suomi</option>
+            <option>Svenska</option>
+            <option>Tiếng Việt</option>
+            <option>Türkçe</option>
+            <option>Ελληνικά</option>
+            <option>Български</option>
+            <option>Русский</option>
+            <option>Српски</option>
+            <option>Українська</option>
+            <option>&#8235;עברית&#8236;</option>
+            <option>&#8235;اردو&#8236;</option>
+            <option>&#8235;العربية&#8236;</option>
+            <option>&#8235;فارسی&#8236;</option>
+            <option>አማርኛ</option>
+            <option>मराठी</option>
+            <option>हिन्दी</option>
+            <option>বাংলা</option>
+            <option>ગુજરાતી</option>
+            <option>தமிழ்</option>
+            <option>తెలుగు</option>
+            <option>ಕನ್ನಡ</option>
+            <option>മലയാളം</option>
+            <option>ไทย</option>
+            <option>한국어</option>
+            <option>中文 (香港)</option>
+            <option>中文（简体中文）</option>
+          </select>
+        </div>
+      </div>
+    </footer>
+
   </body>
 </html>
