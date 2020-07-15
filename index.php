@@ -145,7 +145,6 @@
 
         <?php foreach ($faq as $question_and_answer => $text_list) { ?>
           <h2> <?php echo $text_list['question']; ?> </h2>
-
           <p> <?php echo $text_list['answer']; ?> </p>
         <?php } ?>
 
