@@ -4,14 +4,14 @@
       'question' => 'Come state implementando la recente decisione della Corte
                      di giustizia dell\'Unione europea (CGUE) relativa al diritto
                      all\'oblio?',
-      'answer' => 'La recente \'<span class="color-blu">\'decisione della Corte di giustizia dell\'Unione
-                   europea\'</span>\' ha profonde conseguenze per i motori di ricerca in Europa.
+      'answer' => 'La recente <span class="color-blue">decisione della Corte di giustizia dell\'Unione
+                   europea</span> ha profonde conseguenze per i motori di ricerca in Europa.
                    La Corte ha stabilito che alcuni utenti hanno il diritto di chiedere
                    ai motori di ricerca come Google di rimuovere risultati relativi a
                    chiavi di ricerca che includono il proprio nome. Per poter essere
                    rimossi, i risultati visualizzati devono essere inadeguati,
                    irrilevanti o non più rilevanti, o eccessivi.
-                  \'<br>\'
+                  <br><br>
                    Da quando questa decisione è stata pubblicata il 13
                    maggio 2014, abbiamo lavorato incessantemente per
                    uniformarci a essa. Si tratta di una procedura complessa
@@ -19,9 +19,9 @@
                    effettuare un bilanciamento tra il diritto dell\'individuo
                    a controllare i suoi dati personali ed il diritto di tutti
                    di conoscere e distribuire le informazioni.
-                   \'<br>\'
+                   <br><br>
                    Per presentare una richiesta di rimozione, compila
-                   questo modulo web. Riceverai una risposta automatica
+                   questo <span class="color-blue">modulo web</span>. Riceverai una risposta automatica
                    che conferma la ricezione della tua richiesta.
                    Dopodiché valuteremo il tuo caso (tieni presente che
                    potrebbe occorrere un po\' di tempo perché abbiamo già
@@ -39,7 +39,7 @@
                    al tuo caso. Se non sei d\'accordo con la nostra valutazione,
                    puoi rivolgerti all\'Autorità garante per la
                    protezione dei dati personali nel tuo paese.
-                   \'<br>\'
+                   <br><br>
                    Nei prossimi mesi lavoreremo a stretto contatto con le
                    autorità per la protezione dei dati e con altre autorità
                    per perfezionare il nostro approccio. La decisione della
@@ -48,7 +48,7 @@
                    riteniamo anche che sia importante rispettare la decisione
                    della Corte e ci stiamo adoperando per predisporre una
                    procedura conforme alla legge.
-                   \'<br>\'
+                   <br><br>
                    Quando cerchi un nome, potresti trovare una notifica
                    in cui viene spiegato che i risultati potrebbero essere
                    stati modificati nel rispetto delle leggi europee per
@@ -63,7 +63,7 @@
                     per te e lo sono anche per noi. Per noi è imperativo offrire un\'elevata
                     sicurezza e assicurarti che le tue informazioni sono al sicuro e
                     accessibili quando ne hai bisogno.
-
+                    <br><br>
                     Siamo costantemente al lavoro per garantire un\'elevata sicurezza,
                     proteggere la tua privacy e rendere Google ancora più efficace ed
                     efficiente per te. Spendiamo centinaia di milioni di dollari ogni
@@ -73,12 +73,12 @@
                     la privacy di facile utilizzo come Google Dashboard, la verifica in
                     due passaggi e Impostazioni annunci. Così, per quanto riguarda le
                     informazioni che condividi con Google, hai il massimo controllo.
-
+                    <br><br>
                     Puoi leggere ulteriori informazioni sulla sicurezza online, incluso
-                    come proteggere te e la tua famiglia online, nel Centro Google per
-                    la sicurezza online.
-
-                    Scopri quali misure adottiamo per garantire protezione e sicurezza
+                    come proteggere te e la tua famiglia online, nel
+                    <span class="color-blue">Centro Google perla sicurezza online</span>.
+                    <br><br>
+                    <span class="color-blue">Scopri</span> quali misure adottiamo per garantire protezione e sicurezza
                     alle tue informazioni personali, lasciando a te il controllo.'
     ],
     [
@@ -89,18 +89,21 @@
                     non possono rimuovere i contenuti direttamente dai siti
                     web, quindi rimuovere risultati di ricerca da Google non
                     consente di rimuovere i contenuti dal Web. Se desideri
-                    rimuovere qualcosa dal Web, devi contattare il webmaster
+                    rimuovere qualcosa dal Web, devi
+                    <span class="color-blue">contattare il webmaster</span>
                     del sito su cui sono pubblicati i contenuti e chiedergli
                     di apportare una modifica. Inoltre, se, ai sensi delle
                     leggi europee per la protezione dei dati, desideri
                     richiedere la rimozione di determinate informazioni su
                     di te visualizzate nei risultati di ricerca di Google,
-                    fai clic qui. Una volta che i contenuti saranno stati
+                    <span class="color-blue">fai clic qui</span>.
+                    Una volta che i contenuti saranno stati
                     rimossi e che Google avrà rilevato l\'aggiornamento,
                     le informazioni non verranno più visualizzate nei
                     risultati di ricerca di Google. In caso di una richiesta
-                    di rimozione urgente, è inoltre possibile visitare la
-                    nostra pagina di assistenza per avere ulteriori informazioni.'
+                    di rimozione urgente, è inoltre possibile
+                    <span class="color-blue">visitare lanostra pagina di
+                    assistenza per avere ulteriori informazioni</span>.'
     ],
     [
       'question' => 'Quando faccio clic sui risultati della Ricerca Google,
@@ -109,7 +112,8 @@
                     Ricerca Google, il tuo browser web potrebbe reindirizzare
                     alla pagina web di destinazione anche l\'indirizzo Internet,
                     o URL, della pagina dei risultati di ricerca sotto forma di
-                    URL referrer. Talvolta, l\'URL della pagina dei risultati
+                    <span class="color-blue">URL referrer</span>.
+                    Talvolta, l\'URL della pagina dei risultati
                     di ricerca potrebbe contenere la query di ricerca che hai
                     inserito. Se utilizzi la ricerca SSL (la funzione di
                     ricerca criptata di Google), nella maggior parte dei casi
@@ -117,11 +121,12 @@
                     dell\'URL negli URL referrer. Questo comportamento può
                     fare eccezione, ad esempio se utilizzi alcuni browser
                     meno diffusi. Ulteriori informazioni sulla ricerca SSL
-                    sono disponibili qui. Le query di ricerca o le informazioni
+                    sono disponibili <span class="color-blue">qui</span>.
+                    Le query di ricerca o le informazioni
                     contenute nell\'URL referrer potrebbero essere disponibili
                     mediante Google Analytics o un\'API (Application Programming
                     Interface). Inoltre, gli inserzionisti potrebbero ricevere
-                    informazioni relative all\' esatte parole chiave che hanno 
+                    informazioni relative all\' esatte parole chiave che hanno
                     determinato il clic su un annuncio.'
     ],
   ];
@@ -131,18 +136,17 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <title>Google FAQ</title>
   </head>
   <body>
     <main>
-        <?php foreach ($faq as $question_and_answer => $text_list) { ?>
-          <h2>
-            <?php echo $text_list['question']; ?>
-          </h2>
 
-          <p>
-            <?php echo $text_list['answer']; ?>
-          </p>
+        <?php foreach ($faq as $question_and_answer => $text_list) { ?>
+          <h2> <?php echo $text_list['question']; ?> </h2>
+
+          <p> <?php echo $text_list['answer']; ?> </p>
         <?php } ?>
 
     </main>
